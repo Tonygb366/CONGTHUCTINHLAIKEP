@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("logo.jpg")
+st.image("IMG_9413.png")
 import pandas as pd
 
 # Cấu hình trang
