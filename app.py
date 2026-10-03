@@ -5,7 +5,7 @@ import pandas as pd
 # Cấu hình trang
 st.set_page_config(page_title="Tính Lãi Tiết Kiệm", page_icon="💰", layout="centered")
 
-st.title("💰 Ứng Dụng Tính Lãi Gửi Tiết Kiệm")
+st.title("💰 Ứng Dụng Tính Lãi Gửi Tiết Kiệm_Nguyễn Quốc Gia Bảo")
 st.markdown("Nhập các thông tin bên dưới để tính toán số tiền lãi bạn sẽ nhận được.")
 
 # Tạo các cột nhập liệu
